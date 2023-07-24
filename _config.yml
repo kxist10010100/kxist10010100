@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "안녕하세요 김도현입니다 <br> React Team @ Meta"
+sidebar-about-description: "안녕하세요 김도현입니다 <br> 소속:정발고등학교 과학중점반"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
