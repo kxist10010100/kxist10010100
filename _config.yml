@@ -74,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "안녕하세요 김도현입니다 <br> 소속:정발고등학교 과학중점반"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "안녕하세요 김도현입니다 <br> 소속 : 정발고등학교 과학중점반"
+sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/` #사진을 인터넷에 업로드 한 후에 여기에 주소를 넣으면 내 사진으로 나옴
 
 # Featured Tags
 featured-tags: false # true로 바꾸면 fearued tags들을 사용할 수 있음
